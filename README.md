@@ -1,5 +1,4 @@
 # Bike Sharing System
-Capstone Project for Module 3
 
 Regression model for bike sharing dataset
 
