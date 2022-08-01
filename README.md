@@ -4,6 +4,8 @@ Regression model for bike sharing dataset
 
 Creating a regression model to predict number of bike rented in a certain day of a certain season
 
+Video Explanation: [Youtube](https://youtu.be/_RPsJVi-USM)
+
 ***
 
 Multicollinearity Test:
